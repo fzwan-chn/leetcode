@@ -8,7 +8,7 @@ A solution set is:
   [-1, -1, 2]
 ]
 
-
+```Java
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);								//≈≈–Úµƒ∏¥‘”∂» «O(nlogn)
@@ -33,3 +33,4 @@ class Solution {
      return result;  
     }
 }
+```
